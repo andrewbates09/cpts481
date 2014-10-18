@@ -21,6 +21,9 @@ Use a Rasberry PI or Beaglebone to create a simple command and chat AI butler (J
 * [motion detection](http://www.raspberrypi.org/forums/viewtopic.php?t=45235)
 * [personal assistant](http://cmusphinx.sourceforge.net/2014/04/jasper-personal-assistant-for-raspberry-pi/)
 * [speech recognition](https://pypi.python.org/pypi/SpeechRecognition/)
+* [pyspeech](https://code.google.com/p/pyspeech/)
+* [pyttsx](http://pyttsx.readthedocs.org/en/latest/index.html), [recipe](http://code.activestate.com/recipes/578839-python-text-to-speech-with-pyttsx/)
+* [speech](https://pypi.python.org/pypi/speech/)
 
 ## Parallel Pi Cluster
 By using multiple mini ARM machines (Raspberry PIs or BeagleBones), I could build parallel system and basically just do some math on it.
