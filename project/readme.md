@@ -10,15 +10,19 @@ Speech recognition + Database + Application Awareness + Speech To Text
 
 Pyaudio, Numpy, GHMM, NLTK, Pyttsx
 
+Speech Recognition
 * [PySpeech 1](https://pypi.python.org/pypi/SpeechRecognition/)
 * [PySpeech 2](https://code.google.com/p/pyspeech/)
 * [Speech](https://pypi.python.org/pypi/speech/)
 * [Android SR](http://developer.android.com/reference/android/speech/SpeechRecognizer.html)
 
+Speech to Text
 * [pyttsx](http://pyttsx.readthedocs.org/en/latest/index.html)
 * [Google TTS Ex 1](https://gist.github.com/alexsleat/1362973)
 * [Google TTS Ex 2](http://www.raspberrypi.org/forums/viewtopic.php?t=43379&p=347065)
 * [TTS Example](http://code.activestate.com/recipes/578839-python-text-to-speech-with-pyttsx/)
+
+Database
 
 * [PostgreSQL](http://www.postgresql.org/)
 * [PyData](http://pydata.org/)
