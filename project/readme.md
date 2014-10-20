@@ -1,9 +1,9 @@
-# Final Project Ideas
+# Final Project Idea
 
 ## F.E.R.G.U.S AI
 Finally an Effective Resposive and Generally Useful System
 
-Use a [Rasberry PI] (or similar Linux capable board - BeagleBone, Parallela, Galileo, etc) to create a simple interactive command AI butler (J.A.R.V.I.S. inspired, of course).
+Use a [Rasberry PI] - or similar Linux capable board - BeagleBone, Parallela, Galileo, etc - to create a simple interactive command AI butler (J.A.R.V.I.S. inspired, of course).
 
 ### Core Parts
 Speech recognition + Database + Application Awareness + Speech To Text
