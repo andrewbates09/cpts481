@@ -1,26 +1,39 @@
-# Final Project Ideas
-These are [python] poject ideas for the CptS 481 final project.
-
-## Signal Flare
-A word of mouth location aware notification system. By taking user posts and opt-in data locaiton, we can create a 'trending heat maps.'  This has a few main approaches:
-
-1. Scrub currently existing social networks for information
-2. Create a completely independent application/network
-3. Combination of 1 & 2
-
-## LUG Automatic Door
-Using the currently existing gear system and motors, redesign current door opener for Raspberry PI and python.
-
-* [Old version of assembly](https://github.com/goodboyrobot/Lug-Door)
+# Final Project Idea
 
 ## F.E.R.G.U.S AI
 Finally an Effective Resposive and Generally Useful System
 
-Use a Rasberry PI or Beaglebone to create a simple command and chat AI butler (J.A.R.V.I.S. inspired, of course).
+Use a [Rasberry PI] - or similar Linux capable board - BeagleBone, Parallela, Galileo, etc - to create a simple interactive command AI butler (J.A.R.V.I.S. inspired, of course).
 
-* [motion detection](http://www.raspberrypi.org/forums/viewtopic.php?t=45235)
-* [personal assistant](http://cmusphinx.sourceforge.net/2014/04/jasper-personal-assistant-for-raspberry-pi/)
-* [speech recognition](https://pypi.python.org/pypi/SpeechRecognition/)
+### Core Parts
+Speech recognition + Database + Application Awareness + Speech To Text
 
-## Parallel Pi Cluster
-By using multiple mini ARM machines (Raspberry PIs or BeagleBones), I could build parallel system and basically just do some math on it.
+Pyaudio, Numpy, GHMM, NLTK, Pyttsx
+
+Speech Recognition
+* [PySpeech 1](https://pypi.python.org/pypi/SpeechRecognition/)
+* [PySpeech 2](https://code.google.com/p/pyspeech/)
+* [Speech](https://pypi.python.org/pypi/speech/)
+* [Android SR](http://developer.android.com/reference/android/speech/SpeechRecognizer.html)
+
+Speech to Text
+* [pyttsx](http://pyttsx.readthedocs.org/en/latest/index.html)
+* [Google TTS Ex 1](https://gist.github.com/alexsleat/1362973)
+* [Google TTS Ex 2](http://www.raspberrypi.org/forums/viewtopic.php?t=43379&p=347065)
+* [TTS Example](http://code.activestate.com/recipes/578839-python-text-to-speech-with-pyttsx/)
+
+Database
+
+* [PostgreSQL](http://www.postgresql.org/)
+* [PyData](http://pydata.org/)
+* [MySQL](http://dev.mysql.com/downloads/mysql/)
+* [SQLite](http://www.sqlite.org/)
+* [MongoDB](http://www.mongodb.org/)
+
+### Additional Ideas & Links
+
+* [Motion Detection](http://www.raspberrypi.org/forums/viewtopic.php?t=45235)
+* [System Control](http://wizzup.org/simba/)
+* [Not quite like this 1](http://cmusphinx.sourceforge.net/2014/04/jasper-personal-assistant-for-raspberry-pi/)
+* [Not quite like this 2](http://cranklin.wordpress.com/2012/01/13/building-my-own-siri-jarvis/)
+* [Interesting](https://www.youtube.com/watch?v=_YyZtNzq_VQ)
