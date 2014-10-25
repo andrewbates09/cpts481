@@ -1,5 +1,7 @@
 # Final Project Idea
 
+* Moved to separate project. See [FERGUS](https://github.com/andrewbates09/FERGUS) repository.
+
 ## F.E.R.G.U.S AI
 Finally an Effective Resposive and Generally Useful System
 
