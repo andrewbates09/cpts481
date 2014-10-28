@@ -30,6 +30,8 @@ Database
 * [PyData](http://pydata.org/)
 * [MySQL](http://dev.mysql.com/downloads/mysql/)
 * [SQLite](http://www.sqlite.org/)
+* [sqlite-tuts](https://docs.python.org/3.4/library/sqlite3.html)
+* [sqlite-tuts2](http://www.tutorialspoint.com/sqlite/sqlite_python.htm)
 * [MongoDB](http://www.mongodb.org/)
 
 ### Additional Ideas & Links
