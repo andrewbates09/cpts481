@@ -34,6 +34,14 @@ Database
 * [sqlite-tuts2](http://www.tutorialspoint.com/sqlite/sqlite_python.htm)
 * [MongoDB](http://www.mongodb.org/)
 
+Documentation
+
+* [All Docs](https://wiki.python.org/moin/DocumentationTools)
+* [Sphinx](http://sphinx-doc.org/)
+* * [Themes 1](http://sphinx-doc.org/theming.html)
+* * [Themes 2](http://docs.writethedocs.org/tools/sphinx-themes/)
+* [Gouda](http://www.unexpected-vortices.com/sw/rippledoc/index.html)
+
 ### Additional Ideas & Links
 
 * [Motion Detection](http://www.raspberrypi.org/forums/viewtopic.php?t=45235)
