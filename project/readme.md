@@ -13,12 +13,21 @@ Speech recognition + Database + Application Awareness + Speech To Text
 Pyaudio, Numpy, GHMM, NLTK, Pyttsx
 
 Speech Recognition
+
 * [PySpeech 1](https://pypi.python.org/pypi/SpeechRecognition/)
 * [PySpeech 2](https://code.google.com/p/pyspeech/)
 * [Speech](https://pypi.python.org/pypi/speech/)
 * [Android SR](http://developer.android.com/reference/android/speech/SpeechRecognizer.html)
 
+Query/Response Handling
+
+* [General Hidden Markov Models](http://ghmm.org/)
+* [Natural Language Tk](http://www.nltk.org/)
+* [PyLint](https://pypi.python.org/pypi/pylint/1.3.1)
+* [Lex-Yacc](http://www.dabeaz.com/ply/)
+
 Speech to Text
+
 * [pyttsx](http://pyttsx.readthedocs.org/en/latest/index.html)
 * [Google TTS Ex 1](https://gist.github.com/alexsleat/1362973)
 * [Google TTS Ex 2](http://www.raspberrypi.org/forums/viewtopic.php?t=43379&p=347065)
@@ -33,6 +42,7 @@ Database
 * [sqlite-tuts](https://docs.python.org/3.4/library/sqlite3.html)
 * [sqlite-tuts2](http://www.tutorialspoint.com/sqlite/sqlite_python.htm)
 * [MongoDB](http://www.mongodb.org/)
+* [JASON](https://docs.python.org/3.4/library/json.html)
 
 Documentation
 
@@ -41,6 +51,11 @@ Documentation
 * * [Themes 1](http://sphinx-doc.org/theming.html)
 * * [Themes 2](http://docs.writethedocs.org/tools/sphinx-themes/)
 * [Gouda](http://www.unexpected-vortices.com/sw/rippledoc/index.html)
+
+Distribution
+
+* [distutils](https://docs.python.org/3/library/distutils.html)
+* [setuptools](https://setuptools.pypa.io/en/latest/setuptools.html)
 
 ### Additional Ideas & Links
 
