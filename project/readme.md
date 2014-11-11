@@ -59,6 +59,7 @@ Distribution
 
 ### Additional Ideas & Links
 
+* [Open CV](http://docs.opencv.org/trunk/doc/py_tutorials/py_tutorials.html)
 * [Motion Detection](http://www.raspberrypi.org/forums/viewtopic.php?t=45235)
 * [System Control](http://wizzup.org/simba/)
 * [Not quite like this 1](http://cmusphinx.sourceforge.net/2014/04/jasper-personal-assistant-for-raspberry-pi/)
